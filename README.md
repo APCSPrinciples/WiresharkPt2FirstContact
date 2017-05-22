@@ -6,7 +6,7 @@ In this lab, we’ll solve one of the puzzles from the 2013 Toaster Wars high sc
 3.	Choose *File | Open*
 4.	Browse to the folder where you downloaded [first_contact.pcap](first_contact.pcap) and open it. You should see something similar to the picture below   
 ![FirstContact1.png](FirstContact1.png)   
-5.	Look through the packets for clues about the location. When you discover the location, [google it](www.google.com).
+5.	Look through the packets for clues about the location. When you discover the location, [google it](http://www.google.com).
 6.	It’s a famous place. If you think you found it, write down the name of the famous place and call your instructor over to check your answer.
 
 
